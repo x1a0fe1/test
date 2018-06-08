@@ -1,0 +1,142 @@
+x1a0fe1983@gmail.com   /5205201314
+
+facebook
+
+x1a0fe1983@gmail.com/xiaofei8888
+
+
+
+
+https://www.facebook.com/karma.dawa.7?ref=br_rs
+
+
+http://izdown.net/
+http://books-home.com/
+
+http://uploaded.net/me  bajiebujiese@126.com
+
+
+http://freshwap.org/
+
+
+
+http://itbookshub.com/
+
+https://ulozto.cz
+
+http://mirknig.online/
+
+B4S5-1SEF-4ASF-FSA4-DF87-DA41
+
+
+
+530893
+
+http://search.4shared.com/q/CCAD/010/fileice
+
+http://www.playvpn.top/
+http://bestfreevpn.top/
+http://www.pptpvpn.win/
+http://www.justfreevpn.com/
+Ip: 149.56.165.199
+Account: vpn123
+Password: 019478
+
+
+Ip: 195.123.209.182
+Account: vpn123
+Password: 082134
+
+
+http://fileice.net/download.php?file=3y1t8
+
+
+http://shiprecorder.biz/index.php/en/forum
+heihei/xiaofei8888
+
+
+Username: asio.nsane@gmail.com
+Serial: 3825054695
+Block app with firewall after activating
+
+
+
+elasticsearch和hadoop集成，gateway.type hdfs设置
+
+配置elasticsearch的存储路径为hdfs需要两步，安装插件 elasticsearch-hadoop，在联网的情况下在命令窗口运行：plugin -install elasticsearch/elasticsearch-hadoop/1.2.0即可。
+
+如果没有联网解压插件到plugins中即可，目录为/hadoop。。。。。
+
+在配置文件elasticsearch.yml中要配置如下：
+
+gateway:
+    type: hdfs
+gateway:
+            hdfs:
+        uri: hdfs://localhost:9000
+
+
+
+IP规划
+		办公 10.0.0.1-99
+		IT 文件共享、svn、bugzilla等）? 10.0.0.100
+		开发：10.0.0.110-199
+		测试专用? 10.0.0.200-254
+
+
+
+武汉svn
+		
+		部署   svn://10.0.0.100/svn/depolyment
+		文档   svn://10.0.0.100/svn/docs
+
+北京svn
+
+svn://192.168.98.136/产品目录/Ultra-SmartLog/trunk
+		
+
+
+
+
+
+vpn信息
+		220.231.2.25    邮箱用户县/邮箱密码 
+
+
+
+文件共享服务?
+		\\10.0.0.139\share    用户名：share 密码：ultra.123
+
+
+
+IT系统管理员：段啸俊、陈华立
+
+------------------------------------------------------------------------
+bj的AIX环境：
+192.168.204.133  root/root
+ssh 上去之前现拨vpn
+我在10.0.0.139上拨通vpn
+你从139上ssh到bj的环境
+
+
+
+在AIX环境跑通flume服务程序，发现程序的编译版本与AIX上的运行环境不一致，导致失败，重新编译后通过，但是在最后有个MD5编码环境出现问题，查资料待解决。
+
+
+申请人: 肖永飞  的,邮箱账号： xiaoyongfei@ultrapower.com.cn 、邮箱密码： ultra#046
+
+
+账号信息  
+pmonotice  
+ 
+发送时间:  2016年4月7日 8:10  
+收件人:  肖永飞 
+附件:   
+ 
+ 
+ 
+欢迎你加入神州泰岳，你已成为泰岳的一员，与我们共同成长吧！
+你的账号已经开通，用户名：xiaoyongfei，初始密码：xiaoyongfei123 
+注：请及时填写个人维护下员工履历信息，避免由于不填写导致合同不能及时签订。
+信息化地址：http://pmo.ultrapower.com.cn/ucas/login 
+
